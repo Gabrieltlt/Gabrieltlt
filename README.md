@@ -6,7 +6,7 @@
 - 🔓 I have experience with Python, C/C++, and ROS;
 
 ## Projects
-- 🤖 I work as volunteer on the Robotics Team FBOT in the industrial robot (@Work) category. I am learning about YOLO to develop the robot's computer vision, primarily focused on object detection;
+- 🤖 I work as volunteer on the Robotics Team FBOT in the industrial robot (@Work) category. I am learning about computer vision techniques to develop the robot's perception system, primarily focused on object detection;
 
 ## Awards
 - 🥈 Brazilian Robotics Competition 2024;
