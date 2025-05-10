@@ -28,6 +28,8 @@ target="_blank"></a>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>
+  <img align="center" alt="Gabriel-Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg"/>
   <img align="center" alt="Gabriel-ROS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ros/ros-original.svg"/>
-  <img align="center" alt="Gabriel-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/github/github-original-wordmark.svg"/>
+  <img align="center" alt="Gabriel-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/github/github-original-wordmark.svg"/>
 </div>
