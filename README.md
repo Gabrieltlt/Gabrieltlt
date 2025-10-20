@@ -8,7 +8,8 @@
 
 ## Achievements
 - 🥈 Brazilian Robotics Competition 2024;
-- 5° place RoboCup@Work World Competition Salvador 2025
+- 🥇 Brazilian Robotics Competition 2025;
+- 5° place RoboCup@Work World Competition Salvador 2025;
 
 ## Contact Me
 <div>
