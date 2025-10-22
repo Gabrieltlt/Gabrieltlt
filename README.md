@@ -1,12 +1,12 @@
-## About Me
+## 🙋🏻 About Me
 - 👦 Hello! My name is Gabriel;
 - 📖 I am currently an automation engineering student at the Universidade Federal do Rio Grande (FURG);
 - 👨‍💻 I have experience with Python, C/C++, ROS 1 and ROS 2;
 
-## Projects
+## 📚 Projects
 - 🤖 I work as volunteer on the Robotics Team FBOT in the industrial robot (@Work) category. I am learning about computer vision techniques to develop the robot's perception system, primarily focused on object detection;
 
-## Achievements
+## 🏆 Achievements
 - 🥈 **Brazilian Robotics Competition** 2024;
 - 🥇 **Brazilian Robotics Competition** 2025;
 - 5° place **RoboCup@Work World Competition** Salvador 2025;
