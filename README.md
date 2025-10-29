@@ -4,7 +4,9 @@
 - 👨‍💻 I have experience with Python, C/C++, ROS 1 and ROS 2;
 
 ## 📚 Projects
-- 🤖 I work as volunteer on the Robotics Team FBOT in the industrial robot (@Work) category. I am learning about computer vision techniques to develop the robot's perception system, primarily focused on object detection;
+<!--- 🤖 I work as volunteer on the Robotics Team FBOT in the industrial robot (@Work) category. I am learning about computer vision techniques to develop the robot's perception system, primarily focused on object detection; -->
+
+- 🤖 I am a volunteer in [FBOT@Work](https://github.com/FBOTWork), the industrial robotics category of the FBOT team. I am learning about computer vision techniques to develop the robot's perception system, mainly focusing on object detection;
 
 ## 🏆 Achievements
 - 🥈 **Brazilian Robotics Competition** 2024;
