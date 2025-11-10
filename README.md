@@ -23,9 +23,9 @@ target="_blank"></a>
 
 ##
 <div align="left">
-  <a href="https://www.github.com/gabrieltlt/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieltlt&show_icons=true&theme=algolia&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltlt&layout=compact&langs_count=7&theme=algolia"/>
+  <a href="https://github.com/gabrieltlt">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieltlt&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltlt&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 </div>
